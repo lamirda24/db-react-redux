@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Sulaiman",
+      "alamat": "Jakarta",
+      "telp": "08121",
+      "umur": 21
+    },
+    {
+      "id": 2,
+      "nama": "Ahmad",
+      "alamat": "Jakarta",
+      "telp": "08122",
+      "umur": 21
+    },
+    {
+      "id": 3,
+      "nama": "Sikumbang",
+      "alamat": "Jakarta",
+      "telp": "08123",
+      "umur": 21
+    },
+    {
+      "id": 4,
+      "nama": "Fadillah",
+      "alamat": "Jakarta",
+      "telp": "081223",
+      "umur": 21
+    },
+    {
+      "id": 5,
+      "nama": "Mia",
+      "alamat": "Jakarta",
+      "telp": "081253",
+      "umur": 21
+    },
+    {
+      "id": 6,
+      "nama": "Nadya",
+      "alamat": "Jakarta",
+      "telp": "08123",
+      "umur": 21
+    },
+    {
+      "id": 7,
+      "nama": "Bimo",
+      "alamat": "Jakarta",
+      "telp": "081523",
+      "umur": 21
+    },
+    {
+      "id": 8,
+      "nama": "Stanza",
+      "alamat": "Jakarta",
+      "telp": "081623",
+      "umur": 21
+    },
+    {
+      "id": 9,
+      "nama": "Putra",
+      "alamat": "Jakarta",
+      "telp": "081123",
+      "umur": 21
+    },
+    {
+      "id": 10,
+      "nama": "Adit",
+      "alamat": "Jakarta",
+      "telp": "081523",
+      "umur": 21
+    },
+    {
+      "id": 11,
+      "nama": "Anto",
+      "alamat": "Jakarta",
+      "telp": "0812223",
+      "umur": 21
+    },
+    {
+      "id": 12,
+      "nama": "Rini",
+      "alamat": "Jakarta",
+      "telp": "0812353",
+      "umur": 21
+    },
+    {
+      "id": 13,
+      "nama": "Teto",
+      "alamat": "Jakarta",
+      "telp": "52234",
+      "umur": 21
+    },
+    {
+      "id": 14,
+      "nama": "User-5",
+      "alamat": "Jakarta",
+      "telp": "1235561",
+      "umur": 21
+    },
+    {
+      "id": 15,
+      "nama": "User-3",
+      "alamat": "Jakarta",
+      "telp": "123545",
+      "umur": 21
+    }
+  ]
+}
