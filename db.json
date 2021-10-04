@@ -1,109 +1,124 @@
 {
-  "users": [
+  "projects": [
     {
-      "id": 1,
-      "nama": "Sulaiman",
-      "alamat": "Jakarta",
-      "telp": "08121",
-      "umur": 21
+      "title": "Card title1",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 2,
-      "nama": "Ahmad",
-      "alamat": "Jakarta",
-      "telp": "08122",
-      "umur": 21
+      "title": "Card title2",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 3,
-      "nama": "Sikumbang",
-      "alamat": "Jakarta",
-      "telp": "08123",
-      "umur": 21
+      "title": "Card title3",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 4,
-      "nama": "Fadillah",
-      "alamat": "Jakarta",
-      "telp": "081223",
-      "umur": 21
+      "title": "Card title4",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 5,
-      "nama": "Mia",
-      "alamat": "Jakarta",
-      "telp": "081253",
-      "umur": 21
+      "title": "Card title5",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 6,
-      "nama": "Nadya",
-      "alamat": "Jakarta",
-      "telp": "08123",
-      "umur": 21
+      "title": "Card title6",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 7,
-      "nama": "Bimo",
-      "alamat": "Jakarta",
-      "telp": "081523",
-      "umur": 21
+      "title": "Card title7",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 8,
-      "nama": "Stanza",
-      "alamat": "Jakarta",
-      "telp": "081623",
-      "umur": 21
+      "title": "Card title8",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 9,
-      "nama": "Putra",
-      "alamat": "Jakarta",
-      "telp": "081123",
-      "umur": 21
+      "title": "Card title9",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 10,
-      "nama": "Adit",
-      "alamat": "Jakarta",
-      "telp": "081523",
-      "umur": 21
+      "title": "Card title10",
+      "location": "Bojongsan, Depok, Jawa Barat",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 11,
-      "nama": "Anto",
-      "alamat": "Jakarta",
-      "telp": "0812223",
-      "umur": 21
+      "title": "Card title11",
+      "location": "Semarang",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 12,
-      "nama": "Rini",
-      "alamat": "Jakarta",
-      "telp": "0812353",
-      "umur": 21
+      "title": "Card title12",
+      "location": "Semarang",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 13,
-      "nama": "Teto",
-      "alamat": "Jakarta",
-      "telp": "52234",
-      "umur": 21
+      "title": "Card title13",
+      "location": "Semarang",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 14,
-      "nama": "User-5",
-      "alamat": "Jakarta",
-      "telp": "1235561",
-      "umur": 21
+      "title": "Card title14",
+      "location": "Semarang",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     },
     {
-      "id": 15,
-      "nama": "User-3",
-      "alamat": "Jakarta",
-      "telp": "123545",
-      "umur": 21
+      "title": "Card title15",
+      "location": "Semarang",
+      "price": "562jt",
+      "type": "residential",
+      "unit": "2 - 3 Bedrooms",
+      "sqm": "14 jt"
     }
   ]
 }
