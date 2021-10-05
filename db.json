@@ -1,6 +1,7 @@
 {
   "projects": [
     {
+      "id": 1,
       "title": "Card title1",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -9,6 +10,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 2,
       "title": "Card title2",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -17,6 +19,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 3,
       "title": "Card title3",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -25,6 +28,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 4,
       "title": "Card title4",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -33,6 +37,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 5,
       "title": "Card title5",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -41,6 +46,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 6,
       "title": "Card title6",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -49,6 +55,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 7,
       "title": "Card title7",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -57,6 +64,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 8,
       "title": "Card title8",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -65,6 +73,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 9,
       "title": "Card title9",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -73,6 +82,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 10,
       "title": "Card title10",
       "location": "Bojongsan, Depok, Jawa Barat",
       "price": "562jt",
@@ -81,6 +91,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 11,
       "title": "Card title11",
       "location": "Semarang",
       "price": "562jt",
@@ -89,6 +100,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 12,
       "title": "Card title12",
       "location": "Semarang",
       "price": "562jt",
@@ -97,6 +109,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 13,
       "title": "Card title13",
       "location": "Semarang",
       "price": "562jt",
@@ -105,6 +118,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 14,
       "title": "Card title14",
       "location": "Semarang",
       "price": "562jt",
@@ -113,6 +127,7 @@
       "sqm": "14 jt"
     },
     {
+      "id": 15,
       "title": "Card title15",
       "location": "Semarang",
       "price": "562jt",
