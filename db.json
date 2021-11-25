@@ -1,139 +1,152 @@
 {
-  "project": [
-    {
-      "id": 1,
-      "title": "Card title1",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 2,
-      "title": "Card title2",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 3,
-      "title": "Card title3",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 4,
-      "title": "Card title4",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 5,
-      "title": "Card title5",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 6,
-      "title": "Card title6",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 7,
-      "title": "Card title7",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 8,
-      "title": "Card title8",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 9,
-      "title": "Card title9",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 10,
-      "title": "Card title10",
-      "location": "Bojongsan, Depok, Jawa Barat",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 11,
-      "title": "Card title11",
-      "location": "Semarang",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 12,
-      "title": "Card title12",
-      "location": "Semarang",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 13,
-      "title": "Card title13",
-      "location": "Semarang",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 14,
-      "title": "Card title14",
-      "location": "Semarang",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
-    },
-    {
-      "id": 15,
-      "title": "Card title15",
-      "location": "Semarang",
-      "price": "562jt",
-      "type": "residential",
-      "unit": "2 - 3 Bedrooms",
-      "sqm": "14 jt"
+  "login": {"name":"farrel varian",
+"profile":"https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
+ "role":"owner",
+ "permission":[
+     "home","table","data"
+],
+ "menu":[
+  {
+    "component": "CNavItem",
+    "name": "Dashboard",
+    "to": "/dashboard",
+    "icon": "<CIcon icon={cilSpeedometer} customClassName='nav-icon'/>",
+    "badge": {
+      "color": "info-gradient",
+      "text": "NEW"
     }
-  ]
-}
+  },
+  {
+    "component": "CNavTitle",
+    "name": "Theme"
+  },
+  {
+    "component": "CNavItem",
+    "name": "Colors",
+   "to": "/theme/colors",
+    "icon": "<CIcon icon={cilDrop} customClassName='nav-icon' />"
+  },
+  {
+    "component": "CNavItem",
+    "name": "Typography",
+    "to": "/theme/typography",
+    "icon": "<CIcon icon={cilPencil} customClassName='nav-icon' />"
+  },
+  {
+    "component": "CNavTitle",
+    "name": "Components"
+  },
+  {
+    "component": "CNavGroup",
+    "name": "Base",
+    "to": "/base",
+    "icon": "<CIcon icon={cilPuzzle} customClassName='nav-icon' />",
+    "items": [
+      {
+        "component": "CNavItem",
+        "name": "Accordion",
+        "to": "/base/accordion"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Breadcrumb",
+        "to": "/base/breadcrumbs"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Cards",
+        "to": "/base/cards"
+      }
+    ]
+  },
+  {
+    "component": "CNavGroup",
+    "name": "Buttons",
+    "to": "/buttons",
+    "icon": "<CIcon icon={cilCursor} customClassName='nav-icon' />",
+    "items": [
+      {
+        "component": "CNavItem",
+        "name": "Buttons",
+        "to": "/buttons/buttons"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Buttons groups",
+        "to": "/buttons/button-groups"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Dropdowns",
+        "to": "/buttons/dropdowns"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Loading Buttons",
+        "to": "/buttons/loading-buttons",
+        "badge": {
+          "color": "danger-gradient",
+          "text": "PRO"
+        }
+      }
+    ]
+  },
+  {
+    "component": "CNavGroup",
+    "name": "Forms",
+    "icon": "<CIcon icon={cilNotes} customClassName='nav-icon' />",
+    "items": [
+      {
+        "component": "CNavItem",
+        "name": "Form Control",
+        "to": "/forms/form-control"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Select",
+        "to": "/forms/select"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Multi Select",
+        "to": "/forms/multi-select",
+        "badge": {
+          "color": "danger-gradient",
+          "text": "PRO"
+        }
+      },
+      {
+        "component": "CNavItem",
+        "name": "Checks & Radios",
+        "to": "/forms/checks-radios"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Range",
+        "to": "/forms/range"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Input Group",
+        "to": "/forms/input-group"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Floating Labels",
+        "to": "/forms/floating-labels"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Layout",
+        "to": "/forms/layout"
+      },
+      {
+        "component": "CNavItem",
+        "name": "Validation",
+        "to": "/forms/validation"
+      }
+    ]
+  }
+]
+ 
+}}
